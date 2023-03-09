@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "bradlc.vscode-tailwindcss",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "moalamri.inline-fold",
+        "dsznajder.es7-react-js-snippets",
+        "rangav.vscode-thunder-client"
+    ]
+}
