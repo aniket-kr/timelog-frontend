@@ -1,4 +1,4 @@
-name: 'Format & Lint QA'
+name: 'Format QA'
 
 on:
   push:
